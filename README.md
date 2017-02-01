@@ -1,6 +1,6 @@
 #Project Plan
 
-1. **RESTful API** (~~1~~ 3-Feb-2017)
+1. **RESTful API** (~~1-Feb~~ 3-Feb-2017)
  * http://www.restapitutorial.com/
  * https://www.youtube.com/watch?v=YCcAE2SCQ6k
  
